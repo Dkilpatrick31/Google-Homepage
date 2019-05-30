@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+  border: 2px solid red;
+}
+
+input {
+  border-radius: 5px;
+  width: 500px;
+}
+
+.wrapper {
+  border: 1px solid blue;
+}
+
+.google-logo,
+.search {
+  margin: 15px auto;
+  padding: 10px;
+}
